@@ -16,7 +16,7 @@ export default function Skills() {
           <div className="mx-auto mt-10 flex flex-wrap justify-center items-center gap-x-10 gap-y-20 sm:gap-x-14 lg:mx-0 lg:max-w-none lg:flex-nowrap">
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/python-svgrepo-com.svg"
+                src="images/pythonsvgrepocom.svg"
                 alt="Python"
                 width={100}
                 height={100}
@@ -25,7 +25,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/js-svgrepo-com.svg"
+                src="images/jssvgrepocom.svg"
                 alt="JavaScript"
                 width={100}
                 height={100}
@@ -34,7 +34,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/c.svg"
+                src="images/c.svg"
                 alt="C++"
                 width={100}
                 height={100}
@@ -43,7 +43,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/java-svgrepo-com.svg"
+                src="images/javasvgrepocom.svg"
                 alt="Java"
                 width={100}
                 height={100}
@@ -52,7 +52,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/sql-svgrepo-com.svg"
+                src="images/sqlsvgrepocom.svg"
                 alt="SQL"
                 width={100}
                 height={100}
@@ -61,7 +61,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px] invert">
               <Image
-                src="/images/html5-01-svgrepo-com.svg"
+                src="images/html501svgrepocom.svg"
                 alt="HTML5"
                 width={100}
                 height={100}
@@ -70,7 +70,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/scala-svgrepo-com.svg"
+                src="images/scalasvgrepocom.svg"
                 alt="Scala"
                 width={100}
                 height={100}
@@ -86,7 +86,7 @@ export default function Skills() {
           <div className="mx-auto mt-10 flex flex-wrap justify-center items-center gap-x-10 gap-y-20 sm:gap-x-14 lg:mx-0 lg:max-w-none lg:flex-nowrap">
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px] invert">
               <Image
-                src="/images/nextjs-svgrepo-com.svg"
+                src="images/nextjssvgrepocom.svg"
                 alt="NextJS"
                 width={150}
                 height={100}
@@ -95,7 +95,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px] invert">
               <Image
-                src="/images/react-16-svgrepo-com.svg"
+                src="images/react16svgrepocom.svg"
                 alt="ReactJS"
                 width={150}
                 height={100}
@@ -104,7 +104,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/node-js-svgrepo-com.svg"
+                src="images/nodejssvgrepocom.svg"
                 alt="NodeJS"
                 width={150}
                 height={100}
@@ -113,7 +113,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px] invert">
               <Image
-                src="/images/graphql-svgrepo-com.svg"
+                src="images/graphqlsvgrepocom.svg"
                 alt="GraphQL"
                 width={150}
                 height={100}
@@ -122,7 +122,7 @@ export default function Skills() {
             </div>  
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px] invert">
               <Image
-                src="/images/Apache_Spark_logo.svg"
+                src="images/ApacheSparklogo.svg"
                 alt="Apache Spark"
                 width={150}
                 height={100}
@@ -131,7 +131,7 @@ export default function Skills() {
             </div>  
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/Hadoop_logo.svg"
+                src="images/Hadooplogo.svg"
                 alt="Hadoop"
                 width={150}
                 height={100}
@@ -147,7 +147,7 @@ export default function Skills() {
           <div className="mx-auto mt-10 flex flex-wrap justify-center items-center gap-x-10 gap-y-20 sm:gap-x-14 lg:mx-0 lg:max-w-none lg:flex-nowrap">
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/mongodb-svgrepo-com.svg"
+                src="images/mongodbsvgrepocom.svg"
                 alt="MongoDB"
                 width={150}
                 height={100}
@@ -156,7 +156,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/Apache_Hive_logo.svg"
+                src="images/ApacheHivelogo.svg"
                 alt="Hive"
                 width={150}
                 height={100}
@@ -172,7 +172,7 @@ export default function Skills() {
           <div className="mx-auto mt-10 flex flex-wrap justify-center items-center gap-x-10 gap-y-20 sm:gap-x-14 lg:mx-0 lg:max-w-none lg:flex-nowrap">
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/Git-logo.svg"
+                src="images/Gitlogo.svg"
                 alt="Git"
                 width={150}
                 height={100}
@@ -181,7 +181,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/Jira_Logo.svg"
+                src="images/JiraLogo.svg"
                 alt="Jira"
                 width={150}
                 height={100}
@@ -190,7 +190,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/GitLab_logo.svg"
+                src="images/GitLablogo.svg"
                 alt="GitLab"
                 width={150}
                 height={100}
@@ -199,7 +199,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/Amazon_Web_Services_Logo.svg"
+                src="images/AmazonWebServicesLogo.svg"
                 alt="Amazon AWS"
                 width={150}
                 height={100}
@@ -208,7 +208,7 @@ export default function Skills() {
             </div>
             <div className="flex items-center justify-center min-[320px]:w-[50px] md:w-[75px] lg:w-[100px] xl:w-[250px]">
               <Image
-                src="/images/docker-svgrepo-com.svg"
+                src="images/dockersvgrepocom.svg"
                 alt="Docker"
                 width={150}
                 height={100}

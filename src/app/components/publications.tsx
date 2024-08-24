@@ -13,7 +13,7 @@ export default function Publications() {
             <div className="flex-row mt-10 flex flex-wrap justify-center items-center gap-x-10 gap-y-10 sm:gap-x-14 lg:mx-0 lg:max-w-none lg:flex-nowrap rounded-md border-2 p-5 min-[2560px]:p-10">
                 <Image
                     className="relative"
-                    src="/images/IEEE_logo.svg"
+                    src="images/IEEElogo.svg"
                     alt="IEEE"
                     width={200}
                     height={200}
@@ -30,7 +30,7 @@ export default function Publications() {
             <div className="flex-row mt-10 flex flex-wrap justify-center items-center gap-x-10 gap-y-10 sm:gap-x-14 lg:mx-0 lg:max-w-none lg:flex-nowrap rounded-md border-2 p-5 min-[2560px]:p-10">
                 <Image
                     className="relative"
-                    src="/images/IEEE_logo.svg"
+                    src="images/IEEElogo.svg"
                     alt="IEEE"
                     width={200}
                     height={200}

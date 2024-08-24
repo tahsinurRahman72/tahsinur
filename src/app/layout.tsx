@@ -27,7 +27,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${kaushan.variable} font-sans`}>
-      <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"></link>
+      <link rel="icon" type="image/png" sizes="32x32" href="images/favicon32x32.png"></link>
       <body className={inter.className}>{children}</body>
     </html>
   );

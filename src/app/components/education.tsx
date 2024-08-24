@@ -13,7 +13,7 @@ export default function Education() {
       <div className="institution flex-row mt-10 flex flex-wrap justify-center items-center gap-x-10 gap-y-10 sm:gap-x-14 lg:mx-0 lg:max-w-none lg:flex-nowrap rounded-md border-2 p-5 min-[2560px]:p-10">
         <div id="institution-image" className="flex items-center justify-center w-[300px] h-[200px] bg-white p-3">
           <Image
-            src="/images/la_trobe_university.svg"
+            src="images/latrobeuniversity.svg"
             alt="La Trobe University"
             width={250}
             height={150}
@@ -36,7 +36,7 @@ export default function Education() {
       <div className="institution flex-row mt-10 flex flex-wrap justify-center items-center gap-x-10 gap-y-10 sm:gap-x-14 lg:mx-0 lg:max-w-none lg:flex-nowrap rounded-md border-2 p-5 min-[2560px]:p-10">
         <div id="institution-image" className="flex items-center justify-center w-[300px] h-[200px] bg-white p-3">
           <Image
-            src="/images/bracu_logo.webp"
+            src="images/braculogo.webp"
             alt="BRAC University"
             width={150}
             height={150}

@@ -15,7 +15,7 @@ export default function Intro() {
       </div>
       <Image
         className="relative rounded-e-full min-[2560px]:w-[1000px] min-[2560px]:h-[1000px]"
-        src="/img.jpeg"
+        src="images/img.jpeg"
         alt="profile-photo"
         width={500}
         height={700}

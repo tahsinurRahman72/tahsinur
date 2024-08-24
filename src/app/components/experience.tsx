@@ -18,7 +18,7 @@ export default function Experience() {
         min-[2560px]:p-10">
         <Image
         className="relative"
-        src="/images/invtech.svg"
+        src="images/invtech.svg"
         alt="invisible-technologies"
         width={200}
         height={200}
@@ -43,7 +43,7 @@ export default function Experience() {
         min-[2560px]:p-10">
         <Image
         className="relative"
-        src="/images/daraz.png"
+        src="images/daraz.png"
         alt="daraz"
         width={100}
         height={100}
@@ -68,7 +68,7 @@ export default function Experience() {
         min-[2560px]:p-10">
         <Image
         className="relative"
-        src="/images/intelligent-tr.png"
+        src="images/intelligenttr.png"
         alt="intelligent-machines"
         width={150}
         height={100}
