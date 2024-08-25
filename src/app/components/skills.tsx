@@ -3,7 +3,7 @@ import Image from 'next/image';
 export default function Skills() {
   return (
     <>
-    <div id="skills-heading" className="flex justify-start text-5xl min-[2560px]:text-8xl min-[2560px]:m-12 font-sans text-white items-center">
+    <div id="skills-heading" className="flex my-6 justify-start text-5xl min-[2560px]:text-8xl min-[2560px]:m-12 font-sans text-white items-center">
       <h1>
         Skills
       </h1>
