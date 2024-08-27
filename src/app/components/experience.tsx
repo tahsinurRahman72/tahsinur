@@ -3,7 +3,7 @@ import Image from 'next/image';
 export default function Experience() {
     return (
     <>
-    <div id="experience-heading" className="flex my-6 justify-start text-5xl min-[2560px]:text-8xl font-sans text-white items-center min-[2560px]:m-12">
+    <div id="experience-heading" className="flex my-6 py-5 justify-start text-5xl min-[2560px]:text-8xl font-sans text-white items-center min-[2560px]:m-12">
         <h1>
         Experience
         </h1>

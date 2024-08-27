@@ -1,7 +1,7 @@
 export default function Contact() {
     return (
         <>
-            <div id="contact-heading" className="flex my-6 justify-start text-5xl min-[2560px]:text-8xl min-[2560px]:m-12 font-sans text-white items-center">
+            <div id="contact-heading" className="flex my-6 py-5 justify-start text-5xl min-[2560px]:text-8xl min-[2560px]:m-12 font-sans text-white items-center">
             <h1>
                 Contact
             </h1>
