@@ -38,10 +38,10 @@ export default function Header({ handleScroll }: HeaderProps) {
       {isOpen && (
         <div className="bg-black text-white p-4 md:hidden">
           <button onClick={() => handleScroll('experience-heading')} className="block font-sans text-xl w-full text-left py-2">Experience</button>
-          <button onClick={() => handleScroll('skills-heading')} className="block font-sans text-xxl w-full text-left py-2">Skills</button>
-          <button onClick={() => handleScroll('education-heading')} className="block font-sans text-xxl w-full text-left py-2">Education</button>
-          <button onClick={() => handleScroll('publications-heading')} className="block font-sans text-xxl w-full text-left py-2">Publications</button>
-          <button onClick={() => handleScroll('contact-heading')} className="block font-sans text-xxl w-full text-left py-2">Contact</button>
+          <button onClick={() => handleScroll('skills-heading')} className="block font-sans text-xl w-full text-left py-2">Skills</button>
+          <button onClick={() => handleScroll('education-heading')} className="block font-sans text-xl w-full text-left py-2">Education</button>
+          <button onClick={() => handleScroll('publications-heading')} className="block font-sans text-xl w-full text-left py-2">Publications</button>
+          <button onClick={() => handleScroll('contact-heading')} className="block font-sans text-xl w-full text-left py-2">Contact</button>
         </div>
       )}
     </div>
