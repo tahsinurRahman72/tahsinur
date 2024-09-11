@@ -43,7 +43,7 @@ export default function Contact() {
             </button>
 
             {/* <!-- Instagram --> */}
-            <button onClick={() => window.open('https://www.instagram.com/tahsin.rafsan/', '_blank')}
+            <button onClick={() => window.open('https://www.instagram.com/__thsn.rfsn__/', '_blank')}
             type="button"
             data-twe-ripple-init
             data-twe-ripple-color="light"
